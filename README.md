@@ -7,7 +7,7 @@ SpringBoot:Spring Boot eliminates boilerplate code, letting you jumpstart develo
 
 Project Implementation
 
- type this in local folder where you want to store code git clone https://github.com/AnteMarin/UrlShortener-API.git
+ type this in local folder where you want to store code git clone https://github.com/gtejakrishna2000/UrlShort.git
 - Make sure you have access to local or any MySQL server.
 - Open project in your favorite editor and change application.properties file to point to your MySQL database (change username and password)
 - Build SpringBoot project.
